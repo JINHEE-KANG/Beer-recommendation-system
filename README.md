@@ -10,19 +10,19 @@
 ## 분석 프로세스
 1. 데이터 전처리
 2. 머신러닝 - 협업필터링 Collaborative Filtering
-  1. 최근접 이웃 기반
-    - IBCF
-  2. 잠재요인 기반
-    - SVD
-    - NMF
-  3. Surprise 패키지 활용
+    1. 최근접 이웃 기반
+        - IBCF
+    2. 잠재요인 기반
+        - SVD
+        - NMF
+    3. Surprise 패키지 활용
 3. 딥러닝 - 임베딩 Embedding
-  - optimizers: Adam, RMSprop, Adadelta, SGD
-  - activation functions: relu, sigmoid, tanh
-  - dropout: L2
+    - optimizers: Adam, RMSprop, Adadelta, SGD
+    - activation functions: relu, sigmoid, tanh
+    - dropout: L2
 4. 분석 결과
-  - 모델 성능 평가: rmse
-  - 데이터 시각화
+    - 모델 성능 평가: rmse
+    - 데이터 시각화
 
 
 ### 생성 파일
