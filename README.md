@@ -16,7 +16,14 @@
     - SVD
     - NMF
   3. Surprise 패키지 활용
-3. 딥러닝
+3. 딥러닝 - 임베딩 Embedding
+  - optimizers: Adam, RMSprop, Adadelta, SGD
+  - activation functions: relu, sigmoid, tanh
+  - dropout: L2
+4. 분석 결과
+  - 모델 성능 평가: rmse
+  - 데이터 시각화
 
 
 ### 생성 파일
+- [데이터 전처리](my_df.csv)
